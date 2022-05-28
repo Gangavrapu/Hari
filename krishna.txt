@@ -1,0 +1,4 @@
+'Team lead create story point send that story point to the team members. 
+After that we discussion over the story point. We can start the work as per 
+the requirement and some times we face the issues at that time we discussion 
+about that problem on scum call.'
